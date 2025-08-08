@@ -1,4 +1,4 @@
-<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ0NXQ0ODBsbHZkdzdrZXNmYTNvOWtpM2czdDVlemRhb2NodGtocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30"/> Hola 👋, soy SvChost64! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRqMHE3YTNidGh5a2Q2MG53NHJ4eG0zNjY1aWdiaW82NW11YWJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XptnA9cgVoRvTLtDwY/giphy.gif" width="50"></h2>
+<h2><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ0NXQ0ODBsbHZkdzdrZXNmYTNvOWtpM2czdDVlemRhb2NodGtocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="30"/> Hola 👋, soy SvChost64! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ0NXQ0ODBsbHZkdzdrZXNmYTNvOWtpM2czdDVlemRhb2NodGtocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="50"></h2>
 <img align='right' src="https://r2.guns.lol/e1bcf769-a1d2-4d66-9748-cb578f230bdf.webp" width="30">
 <p><em>Developer & Game Cheat Creator <a href="https://guns.lol/svchost64">SvChost64</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
@@ -14,7 +14,7 @@ Puedes visitar mi web personal:
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRqMHE3YTNidGh5a2Q2MG53NHJ4eG0zNjY1aWdiaW82NW11YWJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XptnA9cgVoRvTLtDwY/giphy.gif" width="50"> Un poco más sobre mí...  
 
 ```cpp
 #include <iostream>
