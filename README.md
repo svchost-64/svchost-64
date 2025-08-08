@@ -14,7 +14,7 @@ Puedes visitar mi web personal:
 
 ---
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRqMHE3YTNidGh5a2Q2MG53NHJ4eG0zNjY1aWdiaW82NW11YWJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XptnA9cgVoRvTLtDwY/giphy.gif" width="50"> Un poco más sobre mí...  
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRqMHE3YTNidGh5a2Q2MG53NHJ4eG0zNjY1aWdiaW82NW11YWJ0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XptnA9cgVoRvTLtDwY/giphy.gif" width="40"> Un poco más sobre mí...  
 
 ```cpp
 #include <iostream>
