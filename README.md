@@ -27,7 +27,6 @@ struct SvChost64 {
     vector<string> code = {"C++", "C#", "HTML", "PHP", "Python"};
     vector<string> focus = {"Cheats para Free Fire", "Warzone", "CSGO", "COD Mobile"};
     string currentStatus = "Desarrollando herramientas y exploits";
-    string funFact = "Un buen café = mejor código";
 };
 
 int main() {
@@ -37,7 +36,6 @@ int main() {
     for(auto &lang : yo.code) cout << lang << " ";
     cout << endl;
     cout << "Enfoque actual: " << yo.currentStatus << endl;
-    cout << "Fun Fact: " << yo.funFact << endl;
 }
 ```
 
